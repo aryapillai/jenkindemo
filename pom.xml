@@ -23,7 +23,7 @@
 
 <build>
   <plugins>
-    <!-- ✅ Fix the Java version issue -->
+    <!-- ✅ Fix the Java version issues -->
     <plugin>
       <groupId>org.apache.maven.plugins</groupId>
       <artifactId>maven-compiler-plugin</artifactId>
